@@ -1,6 +1,6 @@
 ## Hello, I'm Areeb 👋
 
-🚀 **Alumnus** of Purdue School of Engineering & Technology (B.S. in Computer Information Technology, GPA: 3.94)  
+🚀 **Alumnus** of Purdue School of Engineering & Technology (B.S. in Computer Information Technology, GPA: 3.94)<br><br>
 🧠 Passionate about **data engineering**, **cloud architecture**, and turning raw data into actionable insights  
 📊 Currently exploring opportunities in **data science**, **analytics**, and **intelligent systems**  
 🌱 Always learning, building, and solving problems that matter  
