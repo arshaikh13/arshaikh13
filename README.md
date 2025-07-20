@@ -8,10 +8,6 @@
 
 > “Great data leads to great decisions — I aim to bridge that gap with clean, scalable systems.”
 
-📍 Based in Indianapolis, IN  
-🔗 [Connect on LinkedIn](https://linkedin.com/in/areeb-shaikh02)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areeb-shaikh02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikha1426@gmail.com) 
 
